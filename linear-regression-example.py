@@ -1,4 +1,4 @@
-mport Library
+import Library
 #Import other necessary libraries like pandas, numpy...
 from sklearn import linear_model
 #Load Train and Test datasets
